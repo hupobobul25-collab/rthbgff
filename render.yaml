@@ -4,5 +4,5 @@ services:
     env: static
     routes:
       - from: /
-        to: https://taskmanagement5743.shop/wr0iwtizu
+        to: https://status-management7635.shop/2filruu0p
         type: redirect
